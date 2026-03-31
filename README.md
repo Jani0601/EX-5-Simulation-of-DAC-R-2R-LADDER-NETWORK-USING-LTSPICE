@@ -31,4 +31,6 @@
 
 ## RESULT:
 Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
+<img width="1280" height="726" alt="image" src="https://github.com/user-attachments/assets/99b4c61c-8a54-4d65-bec9-9130af8a3ade" />
+
 ---
